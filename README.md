@@ -21,8 +21,8 @@ The parameters will be decided based on the data analysis.
 You can find the Python Script that is being used to extract the data in this Repository.
 Open to any further suggestion or improvement.
 thanks :)
-
+<hr>
 # Flight Fare Prediction
-A simple flight fare prediction model for INDIGO airlines.
+A simple flight fare prediction model for INDIGO.
 
 ## https://indigoflight.herokuapp.com/
