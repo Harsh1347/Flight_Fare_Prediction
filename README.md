@@ -22,6 +22,7 @@ You can find the Python Script that is being used to extract the data in this Re
 Open to any further suggestion or improvement.
 thanks :)
 <hr>
+
 # Flight Fare Prediction Demo Model
 A simple flight fare prediction model for INDIGO.
 
