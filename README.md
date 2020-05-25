@@ -24,6 +24,6 @@ thanks :)
 <hr>
 
 # Flight Fare Prediction Demo Model
-A simple flight fare prediction model for INDIGO.
+A simple flight fare prediction model for Indigo.
 
 ## https://indigoflight.herokuapp.com/
