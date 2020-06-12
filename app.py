@@ -67,7 +67,7 @@ def main():
     #    filename = "knn_model.pkl"
     #    loaded_model = pickle.load(open(filename, 'rb'))
     #    return loaded_model
-    filename = "knn_model.pkl"
+    filename = "model.pkl"
     with open(filename, 'rb') as file:  
             Model = pickle.load(file)
     predict = st.button('PREDICT RANGE')
